@@ -1,0 +1,56 @@
+ .highlighted
+{
+	 color:red !important;
+
+}
+.highlighted
+{
+	 color:green;
+
+}
+.highlighted
+{
+	 color:orange;
+
+}
+
+p{
+	color:gray;
+}
+
+.container {
+    height: 800px;
+    width: 1200px;
+    background-image: url(../image/bg.jpg); 
+    border-radius: 15px;
+    background-size: cover;
+
+}
+
+.bg-text {
+    color: #fff;
+    text-align: center;
+    line-height: 800px;
+}
+
+.border{
+	border: 1px solid red;
+}
+
+.margin-padding {
+    /* margin: 80px; */
+    /* margin-top: 80px; */
+    /* margin-left: 62px; */
+    /* margin-right: 80px; */
+    /* margin-bottom: 80px; */
+    /* margin: 10px 15px 20px 30px; */
+    margin: 20px 100px;
+}
+.center {
+    height: 100px;
+    width: 100px;
+    background: green;
+    /* margin: auto; */
+    margin-left: auto;
+    margin-right: auto;
+}
